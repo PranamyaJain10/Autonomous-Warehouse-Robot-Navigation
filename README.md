@@ -1,0 +1,2 @@
+# Autonomous Warehouse Robot Navigation
+Developed a RL agent to autonomously navigate a warehouse grid, efficiently handling package pick-up and delivery while avoiding obstacles. Using OpenAI Gym, I designed both deterministic and stochastic environments to evaluate performance under uncertainty. Through reward engineering and safety constraints, the agent was guided toward efficient and collision-free navigation, and extensive experimentation demonstrated its ability to adapt strategies and improve task efficiency over time.
